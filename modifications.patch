@@ -1,0 +1,13 @@
+diff --git a/pom.xml b/pom.xml
+index 8f03697..33db006 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -5,7 +5,7 @@
+     <groupId>org.jvnet.hudson.plugins</groupId>
+     <artifactId>analysis-pom</artifactId>
+     <version>1.68</version>
+-    <relativePath>../analysis-pom</relativePath>
++    <relativePath/>
+   </parent>
+ 
+   <artifactId>tasks</artifactId>
